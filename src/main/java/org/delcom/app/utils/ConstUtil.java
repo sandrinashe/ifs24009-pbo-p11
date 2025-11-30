@@ -8,4 +8,5 @@ public class ConstUtil {
     public static final String TEMPLATE_PAGES_AUTH_REGISTER = "pages/auth/register";
     public static final String TEMPLATE_PAGES_HOME = "pages/home";
     public static final String TEMPLATE_PAGES_TODOS_DETAIL = "pages/todos/detail";
+    public static final String TEMPLATE_PAGES_CASHFLOWS_HOME = null;
 }
